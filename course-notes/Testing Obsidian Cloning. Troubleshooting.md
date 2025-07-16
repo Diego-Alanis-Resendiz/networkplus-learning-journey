@@ -7,4 +7,8 @@ Important to note that at first I was getting an error ("cannot read properties 
 
 Then I received another error ("cloning into fatal protocol https is not supported") and I was able to resolve this by restarting the application and checking the remote url and realizing I had added an additional blank space before the url (e.g " https://")
 
-Now I am getting an author identity unknown error
+Now I am getting an author identity unknown error. ![[Pasted image 20250715233906.png]]
+
+To get rid of this error I opened up git and followed the instructions. The used the command "git config --list" to ensure my new user.email and user.name changes were made. Then I restarted git and attempted to run  Git: Commit-and-Sync
+
+Yippee this time we were successful 
