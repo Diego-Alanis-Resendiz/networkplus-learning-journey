@@ -1,6 +1,6 @@
-# 🚀 My Route to Network+ Certification
+#  My Route to Network+ Certification
 
-## 👋 Introduction
+## Introduction
 
 ### About Me
 
@@ -11,7 +11,7 @@ As I deepen my understanding of cybersecurity, I’ve come to recognize that **n
 
 ---
 
-## 🎯 Purpose of This Repository
+## Purpose of This Repository
 
 This repo is a **living project**, where I’ll be:
 - Sharing my **notes** (written in Obsidian)
@@ -23,7 +23,7 @@ The goal is to create a free, evolving resource to help *you* learn alongside me
 
 ---
 
-## 📚 Study Resources
+## Study Resources
 
 I’ll be using:
 - [Professor Messer’s free YouTube Network+ course](https://www.youtube.com/user/professormesser)
@@ -33,7 +33,7 @@ I chose these because they were incredibly helpful when I earned my **CompTIA A+
 
 ---
 
-## 🔨 Project & Learning Phases
+## Project & Learning Phases
 
 As I move through Jason Dion’s course structure, I’ll:
 - Break the content into **phases** aligned with the exam domains
@@ -43,10 +43,10 @@ As I move through Jason Dion’s course structure, I’ll:
 
 ---
 
-## 🧠 Final Thoughts
+## Final Thoughts
 
-This is not a polished, final product—it's a journey.  
+This is not a polished, final product... it's a journey.  
 I’ll be iterating, improving, and restructuring as I learn better ways to explain, teach, and build.
 
 I hope this inspires others starting out in tech or cybersecurity to **learn by doing** and to share that learning publicly.  
-Thanks for being here—and feel free to use or build on what I’m creating.
+Thanks for being here and feel free to use or build on what I’m creating.
